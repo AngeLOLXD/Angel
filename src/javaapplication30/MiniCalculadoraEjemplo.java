@@ -16,6 +16,9 @@ public class MiniCalculadoraEjemplo {
         Math.abs(num);
         return num;
     }
+    public static double Suma(double num1, double num2) {
+        return num1+num2;
+    }
     /**
      * Hace la raiz de un numero que recibe
      * @param num Este numero es el que recibe el metodo para hacer la raiz cuadrada 
