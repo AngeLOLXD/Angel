@@ -28,5 +28,8 @@ public class MiniCalculadoraEjemplo {
         Math.sqrt(num);
         return num;
     }
+    public String hola(){
+        return "Hola";
+    }
     
 }
